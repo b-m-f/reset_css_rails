@@ -1,4 +1,4 @@
-reset-css-rails
+reset_css_rails
 ===============
 
 # Reset.css for rails
