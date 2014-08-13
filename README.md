@@ -12,7 +12,7 @@ It is based on [meyer-css-reset-rails](https://github.com/samuelpismel/meyer-css
 add
 
 ```ruby
-  gem 'rails_reset_css'
+  gem 'reset_css_rails'
 ```
 to your gemfile and run
 
