@@ -2,6 +2,7 @@ reset_css_rails
 ===============
 
 # Reset.css for rails
+[![Gem Version](https://badge.fury.io/rb/reset_css_rails.svg)](http://badge.fury.io/rb/reset_css_rails)
 
 Using this gem includes reset.css from [meyerweb](http://meyerweb.com/eric/tools/css/reset/reset.css) into the rails asset pipeline.
 
